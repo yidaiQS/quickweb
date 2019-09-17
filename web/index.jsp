@@ -11,7 +11,7 @@
     <title>首页</title>
   </head>
   <body>
-  首页
+  首页1111
   <h3>这里是response跳转的用户名：<%=session.getAttribute("username")%></h3>
   <a href="login.html" target="_blank">点击返回</a>
   </body>
